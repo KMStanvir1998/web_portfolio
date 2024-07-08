@@ -139,3 +139,8 @@ main{
 .skills>.section-description{
     margin-bottom: 40px;
 }
+/* resume style */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
