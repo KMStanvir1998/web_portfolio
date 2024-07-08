@@ -144,3 +144,28 @@ main{
     display: flex;
     gap: 24px;
 }
+
+.experience-description,.experience-sub-title{
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 14px;
+}
+.experience-sub-title{
+    font-size: 14px;
+}
+
+.resume{
+    margin-bottom: 80px;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.resume>.section-title{
+    margin-bottom: 120px;
+}
+.resume-column{
+    margin: 0 47px;
+}
+.download-btn{
+    margin-top: 40px;
+}
